@@ -165,7 +165,7 @@
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
-            gap: 40px;
+            gap: 30px;
             margin-top: 40px;
         }
 
@@ -173,7 +173,7 @@
             background-color: rgb(18, 18, 62);
             border-radius: 10px;
             padding: 20px;
-            width: 350px;
+            width: 300px;
             text-align: center;
             transition: all 0.3s ease;
         }
@@ -231,7 +231,7 @@
             border-radius: 10px;
             padding: 20px;
             padding-bottom: 70px;
-            width: 350px;
+            width: 300px;
             text-align: center;
             transition: all 0.3s ease;
         }
